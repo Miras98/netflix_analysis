@@ -11,8 +11,8 @@ The goal of this project is to answer business questions and extract valuable in
 - Analyze content based on criteria such as release year, countries, and durations.
 
 ## Dataset
-The dataset for this project is sourced from Kaggle datasets
-[netflix_dataset]()
+-The dataset for this project is sourced from Kaggle datasets: 
+[netflix_dataset](https://github.com/Miras98/netflix_analysis/blob/d71c43019df7a826ada67888a2aac92fca28c2d1/netflix_titles.csv)
 
 ## Schema
 ```sql
